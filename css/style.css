@@ -1,0 +1,119 @@
+
+  body{
+    font-family: 'Potta One', cursive;
+    /* background-color: #75cfb8; */
+background-color: #f5d782;
+  }
+.Download-buttons{
+  margin-top:20px;
+  margin-left:90px;
+
+}
+.iphone{
+margin-left:150px;
+}
+.Download-buttons-1{
+  margin-top:20px;
+  margin-left:40px;
+
+}
+.btn.btn-info{
+margin-top:-6px;
+width:190px;
+height:53px
+}
+.carousel-inner{
+height:360px;
+width:600px;
+margin-top:100px;
+margin-left:50px;
+}
+
+
+
+.karantin{
+  margin-top:60px;
+  margin-left:23px;
+}
+.btn.btn-outline-success{
+  width:190px;
+}
+.rotate{
+  transform:rotate(20deg);
+margin-left: 1000px;
+margin-top: -100px;
+}
+.predlozhenie{
+  margin-left: 100px;
+  margin-top:80px;
+}
+.btn-group.dropright{
+  margin-top:290px;
+  margin-left: -156px;
+}
+.predlozhenie1{
+  margin-top:80px;
+margin-left:300px;
+}
+.predlozhenie2{
+  margin-left: 100px;
+  margin-top:80px;
+}
+.predlozhenie3{
+
+    margin-top:80px;
+  margin-left:300px;
+}
+.predlozhenie4{
+  margin-left: 100px;
+  margin-top:80px;
+}
+.predlozhenie5{
+
+      margin-top:80px;
+    margin-left:300px;
+}
+.navbar-toggler{
+  text-align: center;
+}
+.procent-zhilzhitu{
+  margin-left:200px;
+  margin-top:15px;
+
+}
+
+.procent-zhilzhitu1{
+  margin-left:370px;
+  margin-top:15px;
+
+}
+.card{
+  margin-left: 90px;
+  margin-top:48px;
+
+}
+.card-title{
+  margin-left: 150px;
+}
+.Activities{
+  margin-left: 120px;
+  margin-bottom: 80px;
+}
+.card-img-top{
+  margin-top: 6px;
+}
+
+.finish{
+  background-color: #eaac7f;
+  padding: 2px;
+  margin-top: 10px;
+}
+.card-title1{
+}
+.col{
+  margin-right: 10px;
+}
+
+.col1{
+  margin-right: 170px;
+}

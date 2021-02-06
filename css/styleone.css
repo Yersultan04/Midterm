@@ -1,0 +1,30 @@
+
+body{
+  font-family: 'Potta One', cursive;
+height: 100px;
+background-color:#999b84;
+}
+
+hr{
+  border-style:none;
+border-top-style:dotted;
+border-color:grey;
+border-width: 5%;
+}
+.photo{
+  background:white url(images/six-photo.png);
+  float:center;
+  margin-left:-9px;
+  margin-right:-9px;
+  margin-top:-9px;
+  padding:10px;
+  height:900px;
+  text-align:center;
+}
+.back{
+  text-decoration:none;
+
+}
+a{
+  text-decoration:none;
+}

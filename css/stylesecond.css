@@ -1,0 +1,78 @@
+body{
+font-family:'Syne', sans-serif;
+}
+.usti{
+  background:#d0e8f2 url(images/cloud.png);
+  float:center;
+  margin-left:-9px;
+  margin-right:-9px;
+  margin-top:-9px;
+  padding:10px;
+  height:600px;
+  text-align:center;
+}
+.sol-zhak{
+  background-color:#dbf6e9;
+  float:left;
+  margin-left:-9px;
+  padding:2px;
+  height:1400px;
+width:300px;
+  }
+  .on-zhak{
+    background-color:#dbf6e9;
+    float:right;
+    margin-right:-9px;
+    padding:2px;
+    height:1400px;
+width:300px;
+    }
+
+.kontakty{
+text-align:left;
+margin-top:-34px;
+text-decoration:none;
+}
+a{
+text-decoration:none;
+}
+.orta{
+background-color:white;
+float:center;
+height:1000px;
+text-align:center;
+}
+.suret-1{
+float:left;
+}
+
+.suret-2{
+float:right;
+margin-top:-58px;
+margin-left:100px;
+}
+.soz-birinshi-suretke{
+float:right;
+
+margin:0 0 5px 5px;
+}
+.suret-3{
+float:right;
+
+}
+.soz-ekinshi-suretke{
+float:left;
+
+margin:0 0 5px 5px;
+}
+
+.soz-ushinshi-suretke{
+float:bottom;
+
+}
+.your-contact{
+text-align:left;
+margin-left:450px;
+margin-top: -60px;
+text-decoration:none;
+}
